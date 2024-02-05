@@ -34,7 +34,7 @@ a:visited{
 color: red;
 }
 .continer{
-    background-color: aqua;
+    background-color: rgb(161, 239, 239);
 }
 .d{
     width: 200px;
@@ -48,4 +48,20 @@ color: red;
 }
 #third{
     background-color: #f96604;
+}
+.continer-2{
+    background-color: rgb(161, 239, 239);
+}
+.d-2{
+    width: 200px;
+    height: 200px;
+}
+#first-2{
+    background-color: #0a0808;
+}
+#second-2{
+    background-color: #e9151c;
+}
+#third-2{
+    background-color: #04e06a;
 }
