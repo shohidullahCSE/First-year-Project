@@ -1,0 +1,51 @@
+.blog{
+    border: 1px solid rgba(13, 0.1, 0.1,0.2);
+    border-radius: 20px;
+    margin: 10px;
+}
+h3{
+    text-align: center;
+    border: 1px solid green;
+    border-radius: 20px;
+    margin: 60px;
+    color: goldenrod;
+}
+h3:hover{
+    color: indianred;
+    background-color: black;
+    font-size: 30px;
+    
+}
+input:focus{
+    color: green;
+    font-weight: 700;
+}
+li:nth-child(2n):hover{
+    color: aqua;
+    background: #fc0808;
+    list-style: none;
+}
+li:nth-child(2n+1):hover{
+    color: rgb(14, 14, 14);
+    background: #8acc0f;
+    list-style: none;
+}
+a:visited{
+color: red;
+}
+.continer{
+    background-color: aqua;
+}
+.d{
+    width: 200px;
+    height: 200px;
+}
+#first{
+    background-color: #ef0b0b;
+}
+#second{
+    background-color: #bfdf0e;
+}
+#third{
+    background-color: #0451f9;
+}
